@@ -6,7 +6,7 @@
 
 - 📫 Como me contactar **jcasalia@yahoo.com.br**
 
-- 🌱 No momento estou me especializando em Node.js, React , Angular , Java ✏️💻
+- 🌱 No momento estou me especializando em Java, Spring-boot, Node.js, React.js ✏️💻
 
 ## 🚀 Linguagens e Ferramentas:
 
@@ -16,13 +16,22 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-<img align="center" alt="Rafa-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
  <img align="center" alt="Rafa-NodeJS" height="50" width="60"  src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
 <img align="center" alt="Express" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-<img align="center" alt="Express" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+ <img align="center" alt="Rafa-NodeJS" height="30" width="30"  src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000"/>
+
+
+<img align="center" alt="Rafa-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img  align="center"  alt="postgresql" height="30" width="30"  src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"/>
+<img align="center"  alt="Postman" height="30" width="30" 
+src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000" />
+
+
 </div>
 
 ## 📫 Contatos
