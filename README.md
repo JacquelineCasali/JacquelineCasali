@@ -40,8 +40,10 @@
   <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacquelineCasali&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
    
 </div>
-<br><p align="center">Número de Visitantes</p>  
-<img src="https://komarev.com/ghpvc/?username=JacquelineCasali&color=blue&style=flat-square&label=VISITAS" alt="JacquelineCasali" />
-<br>
+<div align="center">
+  <br>
+  <p>Número de Visitantes</p>
+  <img src="https://komarev.com/ghpvc/?username=JacquelineCasali&color=blue&style=flat-square&label=VISITAS" alt="JacquelineCasali" />
+</div>
 </div>
 
