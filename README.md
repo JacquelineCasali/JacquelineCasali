@@ -8,10 +8,10 @@
 - 📫 Como me contactar **jacquelinecasalia@gmail.com**
 
 ## 🚀 Linguagens e Ferramentas:
+ <div align="center" >  
 
-<div style="display: inline-block" align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" height="40" width="40" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />&nbsp;
 
