@@ -9,11 +9,21 @@
 
 ## 🚀 Linguagens e Ferramentas:
 
-## 🚀 Linguagens e Ferramentas:
+<div style="display: inline-block" align="left">
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" /> <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="postgresql" width="40" height="40" /> <img src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000" alt="postman" width="40" height="40" />
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" height="40" width="40" />
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />&nbsp;
+
+  <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="postgresql" width="40" height="40" />&nbsp;
+
+  <img src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000" alt="postman" width="40" height="40" />
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />&nbsp;
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" />&nbsp;
+
+</div>
 
 ## 📫 Contatos
 
