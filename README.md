@@ -41,7 +41,7 @@
    
 </div>
 <br><p align="center">Número de Visitantes</p>  
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJacquelineCasali&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitas&edge_flat=false" alt="Contador de Visitas"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJacquelineCasali&count_bg=%230077B5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitas&edge_flat=false" alt="Contador de Visitas"/>
 <br>
 </div>
 
