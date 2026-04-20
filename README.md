@@ -2,30 +2,20 @@
 
 ## 🙋‍♀️ Sobre mim
 
-- 👨‍💻 Desenvolvedora FullStack | Front-end | Back-end
-
-- 📫 Como me contactar **jcasalia@yahoo.com.br**
-
-- 🌱 No momento estou me especializando em Java, Spring-boot, Node.js, React.js ✏️💻
+- 💻 Desenvolvedora Backend Java com foco em Spring Boot, APIs REST e microsserviços.
+- 🚀 Experiência com arquitetura de microsserviços, integração de sistemas e modelagem de dados com PostgreSQL e MySQL.
+- ☁️ Experiência com AWS, CI/CD, testes automatizados e boas práticas como Clean Code.
+- 📫 Como me contactar **jacquelinecasalia@gmail.com**
 
 ## 🚀 Linguagens e Ferramentas:
 
 <div style="display: inline-block" align="left">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
+<i class="cbp-ig-icon devicon-spring-original"></i>
 
 <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 
- <img align="center" alt="Rafa-NodeJS" height="50" width="60"  src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-
-<img align="center" alt="Express" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
 <img align="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
- <img align="center" alt="Rafa-NodeJS" height="30" width="30"  src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000"/>
-
-
 <img align="center" alt="Rafa-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img  align="center"  alt="postgresql" height="30" width="30"  src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"/>
 <img align="center"  alt="Postman" height="30" width="30" 
@@ -38,12 +28,10 @@ src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000" /
 
 <div style="display: inline-block" align="left">
  <br>
-
-  
+ 
   <a href="https://www.linkedin.com/in/jaquelinecasali" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jacquelinecasalia@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.instagram.com/casalitech" target="_blank"><img src="https://img.shields.io/badge/-instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-</div>
+  </div>
 
 ## 📊 Minhas estatísticas do Github
 
