@@ -1,9 +1,11 @@
-## Seja Bem vindo ao meu Github
+# 👋 Olá! Eu sou a Jacqueline Casali
+
+Desenvolvedora Backend Java | Spring Boot | APIs REST | Microsserviços | AWS | Integração de Sistemas | Full Stack (React)
 
 ## 🙋‍♀️ Sobre mim
 
-- 💻 Desenvolvedora Backend Java com foco em Spring Boot, APIs REST e microsserviços
-- ⚙️ Experiência com arquitetura distribuída, integração de sistemas e modelagem de dados (PostgreSQL, MySQL)
+- 💻 Desenvolvedora Backend Java com experiência em construção de APIs REST escaláveis utilizando Spring Boot
+- ⚙️ Experiência com arquitetura de microsserviços, integração de sistemas e modelagem de dados (PostgreSQL, MySQL)
 - ☁️ Atuação com AWS, CI/CD, testes automatizados (JUnit/Mockito) e boas práticas como Clean Code
 - 📫 Contato: jacquelinecasalia@gmail.com
 
@@ -23,6 +25,30 @@
   </table>
 </div>
 
+
+## 🚀 Projetos em destaque
+
+- 🔹 **API Clínica (Spring Boot)**  
+  API REST com autenticação JWT e regras de negócio  
+  🔗 https://github.com/JacquelineCasali/Api-Sistema-Medico-Java
+
+- 🔹 **Sistema de Gestão (Angular + Java)**  
+  Aplicação full stack com validações complexas  
+  🔗 https://github.com/JacquelineCasali/Teste-de-Sistema-de-gestao
+
+- 🔹 **Processos Empresariais (React + Node)**  
+  Sistema com autenticação, upload e gestão hierárquica  
+  🔗 https://github.com/JacquelineCasali/Teste-Stage-Consulting
+
+- 🔹 **Sistema de Marcação de Cirurgias (Spring Boot)**  
+  API com regras de negócio complexas e controle de agenda médica  
+  🔗 https://github.com/JacquelineCasali/sistema-marcacao-cirurgia
+
+- 🔹 **Mensageria com RabbitMQ (Spring Boot)**  
+  Comunicação assíncrona entre microsserviços  
+  🔗 https://github.com/JacquelineCasali/mensageria-rabbitmq-spring
+
+
 ## 📫 Contatos
 
 <div style="display: inline-block" align="left">
@@ -35,8 +61,7 @@
 ## 📊 Minhas estatísticas do Github
 
    <div align="center" >  
-  <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JacquelineCasali&show_icons=true&count_private=true&hide_border=true&title_color=ADFF2F&icon_color=00FFFF&text_color=c9d1d9&bg_color=000000" alt="Caroline Barbosa github stats" /> 
-  
+
   <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacquelineCasali&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
    
 </div>
@@ -45,5 +70,5 @@
   <p>Número de Visitantes</p>
   <img src="https://komarev.com/ghpvc/?username=JacquelineCasali&color=blue&style=flat-square&label=VISITAS" alt="JacquelineCasali" />
 </div>
-</div>
+
 
