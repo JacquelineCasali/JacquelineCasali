@@ -2,10 +2,10 @@
 
 ## 🙋‍♀️ Sobre mim
 
-- 💻 Desenvolvedora Backend Java com foco em Spring Boot, APIs REST e microsserviços.
-- 🚀 Experiência com arquitetura de microsserviços, integração de sistemas e modelagem de dados com PostgreSQL e MySQL.
-- ☁️ Experiência com AWS, CI/CD, testes automatizados e boas práticas como Clean Code.
-- 📫 Como me contactar **jacquelinecasalia@gmail.com**
+- 💻 Desenvolvedora Backend Java com foco em Spring Boot, APIs REST e microsserviços
+- ⚙️ Experiência com arquitetura distribuída, integração de sistemas e modelagem de dados (PostgreSQL, MySQL)
+- ☁️ Atuação com AWS, CI/CD, testes automatizados (JUnit/Mockito) e boas práticas como Clean Code
+- 📫 Contato: jacquelinecasalia@gmail.com
 
 ## 🚀 Linguagens e Ferramentas:
 
