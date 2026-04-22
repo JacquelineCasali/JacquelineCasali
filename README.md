@@ -38,7 +38,7 @@ Desenvolvedora Backend Java | Spring Boot | APIs REST | Microsserviços | AWS | 
 
 - 🔹 **Processos Empresariais (React + Node)**  
   Sistema com autenticação, upload e gestão hierárquica  
-  🔗 https://github.com/JacquelineCasali/Teste-Stage-Consulting
+  🔗 https://github.com/JacquelineCasali/Projeto-de-Mapeamento-de-Processos-Empresariais
 
 - 🔹 **Sistema de Marcação de Cirurgias (Spring Boot)**  
   API com regras de negócio complexas e controle de agenda médica  
